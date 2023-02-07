@@ -1,6 +1,6 @@
 {
 
-	"itemGroup.mcwfences": "Macaw 的围墙",
+	"itemGroup.mcwfences": "Macaw 的栅栏与墙",
 
 	"death.attack.wired_fence": "%1$s 试图越过铁丝网围栏",
 	"death.attack.wired_fence.player": "%1$s 在试图逃离 %2$s 时越过了铁丝网围栏",
