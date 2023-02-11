@@ -1,0 +1,43 @@
+{
+  "itemGroup.immersive_aircraft.immersive_aircraft_tab": "沉浸式飞机",
+
+  "key.immersive_aircraft.left": "向左",
+  "key.immersive_aircraft.right": "向右",
+  "key.immersive_aircraft.forward": "向前",
+  "key.immersive_aircraft.backward": "向后",
+  "key.immersive_aircraft.up": "向上",
+  "key.immersive_aircraft.down": "向下",
+  "key.immersive_aircraft.pull": "拉升",
+  "key.immersive_aircraft.push": "推进",
+  "key.immersive_aircraft.dismount": "离机",
+
+  "entity.immersive_aircraft.airship": "飞艇",
+  "entity.immersive_aircraft.biplane": "双翼机",
+  "entity.immersive_aircraft.gyrodyne": "旋翼机",
+  "entity.immersive_aircraft.quadrocopter": "四旋翼机",
+
+  "item.immersive_aircraft.hull": "飞机壳",
+  "item.immersive_aircraft.engine": "飞机引擎",
+  "item.immersive_aircraft.sail": "飞机帆",
+  "item.immersive_aircraft.propeller": "飞机螺旋桨",
+  "item.immersive_aircraft.boiler": "锅炉",
+  "item.immersive_aircraft.airship": "飞艇",
+  "item.immersive_aircraft.biplane": "双翼机",
+  "item.immersive_aircraft.gyrodyne": "旋翼机",
+  "item.immersive_aircraft.quadrocopter": "四旋翼机",
+
+  "item.immersive_aircraft.airship.description": "速度缓慢但是控制简单。",
+  "item.immersive_aircraft.biplane.description": "速度很快，相当可靠，但是要确保你的跑道足够长。",
+  "item.immersive_aircraft.gyrodyne.description": "肌肉驱动的直升机，用力一推，就起飞了！",
+  "item.immersive_aircraft.quadrocopter.description": "非常适合建筑。",
+
+  "immersive_aircraft.gyrodyne_target": "动力已达到 %d%%，继续推进！",
+  "immersive_aircraft.gyrodyne_target_reached": "达到旋翼机离地速度，准备起飞！",
+
+  "option.immersive_aircraft.general": "全局选项",
+  "option.immersive_aircraft.separateCamera": "在飞机上使用分离视角。",
+  "option.immersive_aircraft.useThirdPersonByDefault": "在飞机中默认使用第三人称视角。",
+  "option.immersive_aircraft.enableTrails": "喷射花式轨迹。",
+  "option.immersive_aircraft.enableAnimatedSails": "更加波动的帆。",
+  "option.immersive_aircraft.renderDistance": "飞机渲染距离。"
+}
